@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<psproject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" fmt="gp4" version="1000">
+  <volume>
+    <volume_type>pkg_ps4_app</volume_type>
+    <volume_ts>2026-02-13 23:00:00</volume_ts>
+    <package content_id="UP9000-SLES00000_00-SLES00000PS1ZER0" passcode="00000000000000000000000000000000" storage_type="digital50" app_type="full" c_date="2026-02-14" />
+    <chunk_info chunk_count="1" scenario_count="1">
+      <chunks>
+        <chunk id="0" layer_no="0" label="Chunk #0" />
+      </chunks>
+      <scenarios default_id="0">
+        <scenario id="0" type="sp" initial_chunk_count="1" label="Scenario #0">0</scenario>
+      </scenarios>
+    </chunk_info>
+  </volume>
+  <files img_no="0">
+    <file targ_path="sce_sys/npbind.dat" orig_path="sce_sys/npbind.dat" />
+    <file targ_path="sce_sys/param.sfo" orig_path="sce_sys/param.sfo" />
+    <file targ_path="sce_sys/pic1.png" orig_path="sce_sys/pic1.png" />
+    <file targ_path="sce_sys/shareparam.json" orig_path="sce_sys/shareparam.json" />
+    <file targ_path="sce_sys/save_data.png" orig_path="sce_sys/save_data.png" />
+    <file targ_path="sce_sys/icon0.png" orig_path="sce_sys/icon0.png" />
+    <file targ_path="sce_sys/pic0.png" orig_path="sce_sys/pic0.png" />
+    <file targ_path="sce_sys/snd0.at9" orig_path="sce_sys/snd0.at9" />
+    <file targ_path="sce_sys/changeinfo/changeinfo.xml" orig_path="sce_sys/changeinfo/changeinfo.xml" />
+    <file targ_path="sce_sys/icon0.dds" orig_path="sce_sys/icon0.dds" />
+    <file targ_path="sce_sys/pic0.dds" orig_path="sce_sys/pic0.dds" />
+    <file targ_path="sce_sys/pic1.dds" orig_path="sce_sys/pic1.dds" />
+    <file targ_path="config-title.txt" orig_path="config-title.txt" />
+    <file targ_path="eboot.bin" orig_path="eboot.bin" />
+    <file targ_path="package-ps4.conf" orig_path="package-ps4.conf" />
+    <file targ_path="revision.conf" orig_path="revision.conf" />
+    <file targ_path="sce_discmap.plt" orig_path="sce_discmap.plt" />
+    <file targ_path="data/disc1.bin" orig_path="data/disc1.bin" />
+    <file targ_path="data/disc1.cue" orig_path="data/disc1.cue" />
+    <file targ_path="sce_module/libSceFios2.prx" orig_path="sce_module/libSceFios2.prx" />
+    <file targ_path="sce_module/libSceNpToolkit2.prx" orig_path="sce_module/libSceNpToolkit2.prx" />
+    <file targ_path="sce_module/libc.prx" orig_path="sce_module/libc.prx" />
+    <file targ_path="sce_sys/keystone" orig_path="sce_sys/keystone" />
+    <file targ_path="assets/common/AIM.png" orig_path="assets/common/AIM.png" />
+    <file targ_path="assets/common/Analog-Stick-Center.png" orig_path="assets/common/Analog-Stick-Center.png" />
+    <file targ_path="assets/common/Analog-Stick-Down.png" orig_path="assets/common/Analog-Stick-Down.png" />
+    <file targ_path="assets/common/Analog-Stick-Left.png" orig_path="assets/common/Analog-Stick-Left.png" />
+    <file targ_path="assets/common/Analog-Stick-Right.png" orig_path="assets/common/Analog-Stick-Right.png" />
+    <file targ_path="assets/common/Analog-Stick-Up.png" orig_path="assets/common/Analog-Stick-Up.png" />
+    <file targ_path="assets/common/DPad-Down.png" orig_path="assets/common/DPad-Down.png" />
+    <file targ_path="assets/common/DPad-Left.png" orig_path="assets/common/DPad-Left.png" />
+    <file targ_path="assets/common/DPad-Right.png" orig_path="assets/common/DPad-Right.png" />
+    <file targ_path="assets/common/DPad-UP.png" orig_path="assets/common/DPad-UP.png" />
+    <file targ_path="assets/common/DS1.png" orig_path="assets/common/DS1.png" />
+    <file targ_path="assets/common/DS4.png" orig_path="assets/common/DS4.png" />
+    <file targ_path="assets/common/GunCon-A.png" orig_path="assets/common/GunCon-A.png" />
+    <file targ_path="assets/common/GunCon-B.png" orig_path="assets/common/GunCon-B.png" />
+    <file targ_path="assets/common/GunCon-Trigger.png" orig_path="assets/common/GunCon-Trigger.png" />
+    <file targ_path="assets/common/L&amp;R3.png" orig_path="assets/common/L&amp;R3.png" />
+    <file targ_path="assets/common/L1.png" orig_path="assets/common/L1.png" />
+    <file targ_path="assets/common/L1R1.png" orig_path="assets/common/L1R1.png" />
+    <file targ_path="assets/common/L2.png" orig_path="assets/common/L2.png" />
+    <file targ_path="assets/common/L3R3.png" orig_path="assets/common/L3R3.png" />
+    <file targ_path="assets/common/Move.png" orig_path="assets/common/Move.png" />
+    <file targ_path="assets/common/Options.png" orig_path="assets/common/Options.png" />
+    <file targ_path="assets/common/PSPlus.png" orig_path="assets/common/PSPlus.png" />
+    <file targ_path="assets/common/R1.png" orig_path="assets/common/R1.png" />
+    <file targ_path="assets/common/R2.png" orig_path="assets/common/R2.png" />
+    <file targ_path="assets/common/Touchpad.png" orig_path="assets/common/Touchpad.png" />
+    <file targ_path="assets/common/Touchpad_left.png" orig_path="assets/common/Touchpad_left.png" />
+    <file targ_path="assets/common/Touchpad_right.png" orig_path="assets/common/Touchpad_right.png" />
+    <file targ_path="assets/common/arrow.png" orig_path="assets/common/arrow.png" />
+    <file targ_path="assets/common/arrow2.png" orig_path="assets/common/arrow2.png" />
+    <file targ_path="assets/common/arrow_left.png" orig_path="assets/common/arrow_left.png" />
+    <file targ_path="assets/common/arrow_right.png" orig_path="assets/common/arrow_right.png" />
+    <file targ_path="assets/common/checkmark.png" orig_path="assets/common/checkmark.png" />
+    <file targ_path="assets/common/consola.ttf" orig_path="assets/common/consola.ttf" />
+    <file targ_path="assets/common/crosshair0.png" orig_path="assets/common/crosshair0.png" />
+    <file targ_path="assets/common/crosshair0_256.png" orig_path="assets/common/crosshair0_256.png" />
+    <file targ_path="assets/common/crosshair1.png" orig_path="assets/common/crosshair1.png" />
+    <file targ_path="assets/common/crosshair1_256.png" orig_path="assets/common/crosshair1_256.png" />
+    <file targ_path="assets/common/crosshair2.png" orig_path="assets/common/crosshair2.png" />
+    <file targ_path="assets/common/crosshair2_256.png" orig_path="assets/common/crosshair2_256.png" />
+    <file targ_path="assets/common/crosshair3.png" orig_path="assets/common/crosshair3.png" />
+    <file targ_path="assets/common/crosshair3_256.png" orig_path="assets/common/crosshair3_256.png" />
+    <file targ_path="assets/common/crosshair4.png" orig_path="assets/common/crosshair4.png" />
+    <file targ_path="assets/common/crosshair4_256.png" orig_path="assets/common/crosshair4_256.png" />
+    <file targ_path="assets/common/forbidden.png" orig_path="assets/common/forbidden.png" />
+    <file targ_path="assets/common/fpd.png" orig_path="assets/common/fpd.png" />
+    <file targ_path="assets/common/gunCon.png" orig_path="assets/common/gunCon.png" />
+    <file targ_path="assets/common/neGCon-L.png" orig_path="assets/common/neGCon-L.png" />
+    <file targ_path="assets/common/neGCon-R.png" orig_path="assets/common/neGCon-R.png" />
+    <file targ_path="assets/common/neGcon-A.png" orig_path="assets/common/neGcon-A.png" />
+    <file targ_path="assets/common/neGcon-B.png" orig_path="assets/common/neGcon-B.png" />
+    <file targ_path="assets/common/neGcon-I.png" orig_path="assets/common/neGcon-I.png" />
+    <file targ_path="assets/common/neGcon-II.png" orig_path="assets/common/neGcon-II.png" />
+    <file targ_path="assets/common/neGcon-Start.png" orig_path="assets/common/neGcon-Start.png" />
+    <file targ_path="assets/common/neGcon.png" orig_path="assets/common/neGcon.png" />
+    <file targ_path="assets/common/plus-cursor-circle.png" orig_path="assets/common/plus-cursor-circle.png" />
+    <file targ_path="assets/common/plus-cursor.png" orig_path="assets/common/plus-cursor.png" />
+    <file targ_path="assets/common/repeat.png" orig_path="assets/common/repeat.png" />
+    <file targ_path="assets/common/select.png" orig_path="assets/common/select.png" />
+    <file targ_path="assets/common/start.png" orig_path="assets/common/start.png" />
+    <file targ_path="assets/common/start_select_controls_embedded_ps4.png" orig_path="assets/common/start_select_controls_embedded_ps4.png" />
+    <file targ_path="assets/common/start_select_controls_embedded_ps5.png" orig_path="assets/common/start_select_controls_embedded_ps5.png" />
+    <file targ_path="assets/common/start_select_controls_ps4.png" orig_path="assets/common/start_select_controls_ps4.png" />
+    <file targ_path="assets/common/start_select_controls_ps5.png" orig_path="assets/common/start_select_controls_ps5.png" />
+    <file targ_path="assets/common/ui_ps_circle.png" orig_path="assets/common/ui_ps_circle.png" />
+    <file targ_path="assets/common/ui_ps_cross.png" orig_path="assets/common/ui_ps_cross.png" />
+    <file targ_path="assets/common/ui_ps_dpad_left.png" orig_path="assets/common/ui_ps_dpad_left.png" />
+    <file targ_path="assets/common/ui_ps_dpad_right.png" orig_path="assets/common/ui_ps_dpad_right.png" />
+    <file targ_path="assets/common/ui_ps_l1.png" orig_path="assets/common/ui_ps_l1.png" />
+    <file targ_path="assets/common/ui_ps_r1.png" orig_path="assets/common/ui_ps_r1.png" />
+    <file targ_path="assets/common/ui_ps_square.png" orig_path="assets/common/ui_ps_square.png" />
+    <file targ_path="assets/common/ui_ps_touchpad.png" orig_path="assets/common/ui_ps_touchpad.png" />
+    <file targ_path="assets/common/ui_ps_triangle.png" orig_path="assets/common/ui_ps_triangle.png" />
+    <file targ_path="sce_sys/about/right.sprx" orig_path="sce_sys/about/right.sprx" />
+    <file targ_path="assets/PS1HD/bios/SCPH5500.bin" orig_path="assets/PS1HD/bios/SCPH5500.bin" />
+    <file targ_path="assets/PS1HD/bios/SCPH5501.bin" orig_path="assets/PS1HD/bios/SCPH5501.bin" />
+    <file targ_path="assets/PS1HD/bios/SCPH5502.bin" orig_path="assets/PS1HD/bios/SCPH5502.bin" />
+    <file targ_path="assets/common/SFX/BROWSE_DOWN.ogg" orig_path="assets/common/SFX/BROWSE_DOWN.ogg" />
+    <file targ_path="assets/common/SFX/BROWSE_DOWN_VIB.ogg" orig_path="assets/common/SFX/BROWSE_DOWN_VIB.ogg" />
+    <file targ_path="assets/common/SFX/BROWSE_DOWN_VIB.wav" orig_path="assets/common/SFX/BROWSE_DOWN_VIB.wav" />
+    <file targ_path="assets/common/SFX/Browse.ogg" orig_path="assets/common/SFX/Browse.ogg" />
+    <file targ_path="assets/common/SFX/Browse_UP.ogg" orig_path="assets/common/SFX/Browse_UP.ogg" />
+    <file targ_path="assets/common/SFX/Browse_UP_VIB.ogg" orig_path="assets/common/SFX/Browse_UP_VIB.ogg" />
+    <file targ_path="assets/common/SFX/Browse_UP_VIB.wav" orig_path="assets/common/SFX/Browse_UP_VIB.wav" />
+    <file targ_path="assets/common/SFX/Browse_VIB.wav" orig_path="assets/common/SFX/Browse_VIB.wav" />
+    <file targ_path="assets/common/SFX/CloseWindow.ogg" orig_path="assets/common/SFX/CloseWindow.ogg" />
+    <file targ_path="assets/common/SFX/CloseWindow2.ogg" orig_path="assets/common/SFX/CloseWindow2.ogg" />
+    <file targ_path="assets/common/SFX/CloseWindow_VIB.ogg" orig_path="assets/common/SFX/CloseWindow_VIB.ogg" />
+    <file targ_path="assets/common/SFX/CloseWindow_VIB.wav" orig_path="assets/common/SFX/CloseWindow_VIB.wav" />
+    <file targ_path="assets/common/SFX/OpenWindow.ogg" orig_path="assets/common/SFX/OpenWindow.ogg" />
+    <file targ_path="assets/common/SFX/OpenWindow2.ogg" orig_path="assets/common/SFX/OpenWindow2.ogg" />
+    <file targ_path="assets/common/SFX/OpenWindow_VIB.ogg" orig_path="assets/common/SFX/OpenWindow_VIB.ogg" />
+    <file targ_path="assets/common/SFX/OpenWindow_VIB.wav" orig_path="assets/common/SFX/OpenWindow_VIB.wav" />
+    <file targ_path="assets/common/SFX/Slider.ogg" orig_path="assets/common/SFX/Slider.ogg" />
+    <file targ_path="assets/common/SFX/Slider_Left_VIB.ogg" orig_path="assets/common/SFX/Slider_Left_VIB.ogg" />
+    <file targ_path="assets/common/SFX/Slider_Left_VIB.wav" orig_path="assets/common/SFX/Slider_Left_VIB.wav" />
+    <file targ_path="assets/common/SFX/Slider_Right_VIB.ogg" orig_path="assets/common/SFX/Slider_Right_VIB.ogg" />
+    <file targ_path="assets/common/SFX/Slider_Right_VIB.wav" orig_path="assets/common/SFX/Slider_Right_VIB.wav" />
+    <file targ_path="assets/common/SFX/TimelineSlideDown.ogg" orig_path="assets/common/SFX/TimelineSlideDown.ogg" />
+    <file targ_path="assets/common/SFX/TimelineSlideDown_VIB.ogg" orig_path="assets/common/SFX/TimelineSlideDown_VIB.ogg" />
+    <file targ_path="assets/common/SFX/TimelineSlideDown_VIB.wav" orig_path="assets/common/SFX/TimelineSlideDown_VIB.wav" />
+    <file targ_path="assets/common/SFX/TimelineSlideUp.ogg" orig_path="assets/common/SFX/TimelineSlideUp.ogg" />
+    <file targ_path="assets/common/SFX/TimelineSlideUp_VIB.ogg" orig_path="assets/common/SFX/TimelineSlideUp_VIB.ogg" />
+    <file targ_path="assets/common/SFX/TimelineSlideUp_VIB.wav" orig_path="assets/common/SFX/TimelineSlideUp_VIB.wav" />
+    <file targ_path="assets/common/gamespec/icon.png" orig_path="assets/common/gamespec/icon.png" />
+    <file targ_path="assets/common/localization/ar-AR.json" orig_path="assets/common/localization/ar-AR.json" />
+    <file targ_path="assets/common/localization/cs-CZ.json" orig_path="assets/common/localization/cs-CZ.json" />
+    <file targ_path="assets/common/localization/da-DK.json" orig_path="assets/common/localization/da-DK.json" />
+    <file targ_path="assets/common/localization/de-DE.json" orig_path="assets/common/localization/de-DE.json" />
+    <file targ_path="assets/common/localization/el-GR.json" orig_path="assets/common/localization/el-GR.json" />
+    <file targ_path="assets/common/localization/en-GB.json" orig_path="assets/common/localization/en-GB.json" />
+    <file targ_path="assets/common/localization/en-US.json" orig_path="assets/common/localization/en-US.json" />
+    <file targ_path="assets/common/localization/es-ES.json" orig_path="assets/common/localization/es-ES.json" />
+    <file targ_path="assets/common/localization/es-MX.json" orig_path="assets/common/localization/es-MX.json" />
+    <file targ_path="assets/common/localization/fi-FI.json" orig_path="assets/common/localization/fi-FI.json" />
+    <file targ_path="assets/common/localization/fr-CA.json" orig_path="assets/common/localization/fr-CA.json" />
+    <file targ_path="assets/common/localization/fr-FR.json" orig_path="assets/common/localization/fr-FR.json" />
+    <file targ_path="assets/common/localization/hu-HU.json" orig_path="assets/common/localization/hu-HU.json" />
+    <file targ_path="assets/common/localization/id-ID.json" orig_path="assets/common/localization/id-ID.json" />
+    <file targ_path="assets/common/localization/it-IT.json" orig_path="assets/common/localization/it-IT.json" />
+    <file targ_path="assets/common/localization/ja-JP.json" orig_path="assets/common/localization/ja-JP.json" />
+    <file targ_path="assets/common/localization/ko-KR.json" orig_path="assets/common/localization/ko-KR.json" />
+    <file targ_path="assets/common/localization/nl-NL.json" orig_path="assets/common/localization/nl-NL.json" />
+    <file targ_path="assets/common/localization/no-NO.json" orig_path="assets/common/localization/no-NO.json" />
+    <file targ_path="assets/common/localization/pl-PL.json" orig_path="assets/common/localization/pl-PL.json" />
+    <file targ_path="assets/common/localization/pt-BR.json" orig_path="assets/common/localization/pt-BR.json" />
+    <file targ_path="assets/common/localization/pt-PT.json" orig_path="assets/common/localization/pt-PT.json" />
+    <file targ_path="assets/common/localization/ro-RO.json" orig_path="assets/common/localization/ro-RO.json" />
+    <file targ_path="assets/common/localization/ru-RU.json" orig_path="assets/common/localization/ru-RU.json" />
+    <file targ_path="assets/common/localization/sv-SE.json" orig_path="assets/common/localization/sv-SE.json" />
+    <file targ_path="assets/common/localization/th-TH.json" orig_path="assets/common/localization/th-TH.json" />
+    <file targ_path="assets/common/localization/tr-TR.json" orig_path="assets/common/localization/tr-TR.json" />
+    <file targ_path="assets/common/localization/uk-UA.json" orig_path="assets/common/localization/uk-UA.json" />
+    <file targ_path="assets/common/localization/vi-VN.json" orig_path="assets/common/localization/vi-VN.json" />
+    <file targ_path="assets/common/localization/zh-CHS.json" orig_path="assets/common/localization/zh-CHS.json" />
+    <file targ_path="assets/common/localization/zh-CHT.json" orig_path="assets/common/localization/zh-CHT.json" />
+    <file targ_path="assets/common/msdf/array.png" orig_path="assets/common/msdf/array.png" />
+    <file targ_path="assets/common/msdf/msdf-metrics.txt" orig_path="assets/common/msdf/msdf-metrics.txt" />
+  </files>
+  <rootdir>
+    <dir targ_name="sce_sys">
+      <dir targ_name="changeinfo" />
+      <dir targ_name="about" />
+    </dir>
+    <dir targ_name="assets">
+      <dir targ_name="PS1HD">
+        <dir targ_name="bios" />
+      </dir>
+      <dir targ_name="common">
+        <dir targ_name="SFX" />
+        <dir targ_name="gamespec" />
+        <dir targ_name="localization" />
+        <dir targ_name="msdf" />
+      </dir>
+    </dir>
+    <dir targ_name="data" />
+    <dir targ_name="sce_module" />
+  </rootdir>
+</psproject>
